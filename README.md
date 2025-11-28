@@ -1,1 +1,6 @@
-# implement-a-falsy-remover
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Implement a Falsy Remover**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
